@@ -1,0 +1,15 @@
+db.student.insertOne({
+name:"Barani",
+age:20
+})
+
+db.student.find()
+
+db.student.updateOne(
+{name:"Barani"},
+{$set:{age:21}}
+)
+
+db.student.deleteOne(
+{name:"Barani"}
+)
