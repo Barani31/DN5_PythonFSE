@@ -1,0 +1,13 @@
+Red
+
+↓
+
+Green
+
+↓
+
+Refactor
+
+↓
+
+Repeat

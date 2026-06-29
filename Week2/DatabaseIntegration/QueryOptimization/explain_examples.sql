@@ -1,0 +1,15 @@
+EXPLAIN
+
+SELECT *
+
+FROM Employee
+
+WHERE salary>50000;
+
+EXPLAIN ANALYZE
+
+SELECT *
+
+FROM Employee
+
+WHERE salary>50000;
